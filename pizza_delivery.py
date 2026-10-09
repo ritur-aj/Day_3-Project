@@ -312,14 +312,16 @@ time.sleep(0.5)
 
 
 
-print("--------Welcome to pizza delivery--------")
+print("--------Welcome To PIZZA Delivery--------")
 print(" \n")
 # print("")
-print("Prise based on Size of pizza :-  ")
+print("Menu Of PIZZA :-  ")
 print("")
 print("$8  for Small (S) ")
 print("$10  for medium (M) ")
 print("$12  for Large (L) ")
+print("$2  for Papperoni ")
+print("$1  for Extra Chease ")
 print(" \n")
 # print("")
 size = input("Enter size of pizza. S / M / L  :  ")
